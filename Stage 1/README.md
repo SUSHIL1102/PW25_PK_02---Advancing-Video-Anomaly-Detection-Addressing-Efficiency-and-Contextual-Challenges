@@ -11,4 +11,10 @@ Videos that do not trigger Stage 1 detections are passed to **Stage 2** (context
 
 ---
 
-## 📂 Repository Structure
+✅ Quick Checklist
+
+- Run the notebook if you want to understand training + pipeline.
+
+- Use best.pt directly if you only want inference.
+
+- Check results/ for sample outputs.
